@@ -1,0 +1,16 @@
+/home/andre/workspace/console-bank/bin/Debug/net5.0/console-bank
+/home/andre/workspace/console-bank/bin/Debug/net5.0/console-bank.deps.json
+/home/andre/workspace/console-bank/bin/Debug/net5.0/console-bank.runtimeconfig.json
+/home/andre/workspace/console-bank/bin/Debug/net5.0/console-bank.runtimeconfig.dev.json
+/home/andre/workspace/console-bank/bin/Debug/net5.0/console-bank.dll
+/home/andre/workspace/console-bank/bin/Debug/net5.0/ref/console-bank.dll
+/home/andre/workspace/console-bank/bin/Debug/net5.0/console-bank.pdb
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.csprojAssemblyReference.cache
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.GeneratedMSBuildEditorConfig.editorconfig
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.AssemblyInfoInputs.cache
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.AssemblyInfo.cs
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.csproj.CoreCompileInputs.cache
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.dll
+/home/andre/workspace/console-bank/obj/Debug/net5.0/ref/console-bank.dll
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.pdb
+/home/andre/workspace/console-bank/obj/Debug/net5.0/console-bank.genruntimeconfig.cache
